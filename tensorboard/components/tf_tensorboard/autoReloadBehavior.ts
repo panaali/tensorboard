@@ -40,7 +40,7 @@ export var AutoReloadBehavior = {
     },
     autoReloadIntervalSecs: {
       type: Number,
-      value: 30,
+      value: 5,
     },
   },
   detached: function() {
